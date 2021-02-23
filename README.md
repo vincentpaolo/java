@@ -1,12 +1,14 @@
+
+
+
 # java # Processing 
+    
+    Workshop Processing 3 - java :
 
-Workshop Processing 3 - java :
 
-
-This is basic sampler i have build in processing using Java language.
-With this "sketch" i will explain line for line how this is is build.
-
-And i will explain the basics of programming:
+    This is basic sampler i have build in processing using Java language.
+    With this "sketch" i will explain line for line how this is is build.
+    And i will explain the basics of programming:
 
     Programming Environment.
     Data Types.
