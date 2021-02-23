@@ -1,23 +1,20 @@
-
-
-
 # java # Processing 
     
-Workshop Processing 3 - java :
+<h1>Workshop Processing 3 - java :<h1/>
 
 
-This is basic sampler i have build in processing using Java language.
+<p>This is basic sampler i have build in processing using Java language.
 With this "sketch" i will explain line for line how this is is build.
 And i will explain the basics of programming:
 
-Programming Environment.
-Data Types.
-Variables.
-Keywords.
-Logical and Arithmetical Operators.
-If else conditions.
-Loops.
-Numbers, Characters and Arrays.
+  Programming Environment.
+  Data Types.
+  Variables.
+  Keywords.
+  Logical and Arithmetical Operators.
+  If else conditions.
+  Loops.
+  Numbers, Characters and Arrays.
 
 
 What do you need ? 
