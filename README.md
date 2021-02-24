@@ -2,6 +2,8 @@
     
 <h1>Workshop Processing 3</h1>
 
+<img src="https://github.com/vincentpaolo/java/blob/main/Screenshot%202021-02-24%20at%2012.01.30.png" width="300" height="300">
+
 
 A basic sampler (based on the Boss SP303) build in processing using Java.
 With this "sketch" i will explain line for line how this is is build.
