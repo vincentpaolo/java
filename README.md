@@ -1,9 +1,9 @@
-#java #Processing 
+#java #Processing #music #sampler 
     
 <h1>Workshop Processing 3</h1>
 
 
-A basic sample build in processing using Java.
+A basic sampler (based on the Boss SP303) build in processing using Java.
 With this "sketch" i will explain line for line how this is is build.
 And i will explain the basics of programming:
 
