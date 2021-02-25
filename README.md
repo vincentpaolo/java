@@ -5,7 +5,7 @@
 <img src="https://github.com/vincentpaolo/java/blob/main/Screenshot%202021-02-24%20at%2012.01.30.png" width="300" height="300"> <img src="https://github.com/vincentpaolo/java/blob/main/Screenshot%202021-02-24%20at%2012.06.02.png" width="300" height="300">
 
 
-A basic sampler (based on the Boss SP303) build in processing using Java.
+A basic sampler based on the [Boss SP303](https://www.youtube.com/watch?v=7hFRtG7bMio) build in processing using Java.
 With this "sketch" i will explain line for line how this is is build.
 And i will explain the basics of programming:
 
@@ -31,4 +31,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 Adobe XD is a vector-based user experience design tool for web apps and mobile apps, developed and published by Adobe Inc. It is available for macOS and Windows, although there are versions for iOS and Android to help preview the result of work directly on mobile devices. Adobe XD supports website wireframing and creating click-through prototypes.
 
-And last download this repository here [download](https://github.com/vincentpaolo/java/archive/main.zip) and open the WJ_SP303_v2.pde.pde file
+And last download this repository here [download](https://github.com/vincentpaolo/java/archive/main.zip) and open the WJ_SP303_v2.pde file
