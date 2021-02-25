@@ -9,14 +9,14 @@ A basic sampler based on the [Boss SP303](https://www.youtube.com/watch?v=7hFRtG
 With this "sketch" i will explain line for line how this is is build.
 And i will explain the basics of programming:
 
-Programming Environment.
-Data Types.
-Variables.
-Keywords.
-Logical and Arithmetical Operators.
-If else conditions.
-Loops.
-Numbers, Characters and Arrays.
+* Programming Environment.
+* Data Types.
+* Variables.
+* Keywords.
+* Logical and Arithmetical Operators.
+* If else conditions.
+* Loops.
+* Numbers, Characters and Arrays.
 
 <b>What do you need ?</b> 
 
