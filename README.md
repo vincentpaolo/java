@@ -19,7 +19,9 @@ With this "sketch" i will explain line for line how this is is build, and the ba
 
 <b>What do you need ?</b> 
 
+Step 1
 [processing 3](https://processing.org/download/) & 
+Step 2
 [Adobe XD](https://creativecloud.adobe.com/apps/download/xd?promoid=VKW3KF8J&mv=other)
 
 <b>What is processing ?</b>
