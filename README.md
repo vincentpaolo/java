@@ -6,8 +6,7 @@
 
 
 A basic sampler based on the [Boss SP303](https://www.youtube.com/watch?v=7hFRtG7bMio) build in processing using Java.
-With this "sketch" i will explain line for line how this is is build.
-And i will explain the basics of programming:
+With this "sketch" i will explain line for line how this is is build, and the basics of programming:
 
 * Programming Environment.
 * Data Types.
